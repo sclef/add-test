@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [{
       "command": "add-test.convert",
-      "title": "add test"
+      "title": "add-test"
     }]
   },
   "scripts": {
